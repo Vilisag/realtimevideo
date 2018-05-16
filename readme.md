@@ -3,7 +3,7 @@
 ### 1. Intall
 
 ~~~bash
-npm install express --save
+npm install
 ~~~
 
 ### 2. Run
